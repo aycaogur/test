@@ -1,1 +1,3 @@
 master ikinci komit için yazıyorum
+
+yeni satır ekledim
